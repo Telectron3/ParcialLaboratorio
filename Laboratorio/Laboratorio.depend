@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1495381385 source:c:\users\martin\desktop\laboratorio\main.c
+	"Funciones.h"
+
+1495419597 c:\users\martin\desktop\laboratorio\funciones.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1495419366 source:c:\users\martin\desktop\laboratorio\funciones.c
+	"Funciones.h"
+
